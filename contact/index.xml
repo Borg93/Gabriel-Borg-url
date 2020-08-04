@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Gabriel Borg</title>
-    <link>http://gabrielborg.github.io/Gabriel_Portfolio/contact/</link>
+    <link>https://borg93.github.io/Gabriel-Portfolio-url/contact/</link>
     <description>Recent content in Contact on Gabriel Borg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://gabrielborg.github.io/Gabriel_Portfolio/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://borg93.github.io/Gabriel-Portfolio-url/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
