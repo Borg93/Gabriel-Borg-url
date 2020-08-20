@@ -6,10 +6,28 @@
     <description>Recent content in Gabriel&#39;s Portfolio on Gabriel Borg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2020 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 11:15:58 -0400</lastBuildDate>
     
 	<atom:link href="https://borg93.github.io/Gabriel-Portfolio-url/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image Segmentation and Web-GIS</title>
+      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</link>
+      <pubDate>Wed, 19 Aug 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</guid>
+      <description>Place holder coming soon! Program used  Openlayers Geoserver Pgadmin / Postgres QGIS      </description>
+    </item>
+    
+    <item>
+      <title>Battle of Neighborhoods</title>
+      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</link>
+      <pubDate>Mon, 10 Aug 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</guid>
+      <description>Different cities in the world have perfect venues that you cannot live without. In this project we will help people who are living in Odenplan, a central city part of Stockholm, to find a new home with similar features as Odenplan in Stockholm city. Despite of having dissimilarities of taste, we will look for city parts in Stockholm that looks like Odenplan. By clustering different neighborhood according to venue category may give insights on what defines the Norrmalm, the district of Odenplan.</description>
+    </item>
     
     <item>
       <title>Twitter trend recognition</title>
@@ -42,33 +60,12 @@ Sustainable development is highly prioritized when it comes to business in Swede
     </item>
     
     <item>
-      <title>Project IIII: Foursquare-Neighbors</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
-    <item>
-      <title>Project V: Recommending-list_Spotify</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
-    <item>
       <title>Project VI: Regression</title>
       <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project6/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
       <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project6/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <description>placeholder </description>
     </item>
     
   </channel>

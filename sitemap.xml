@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://borg93.github.io/Gabriel-Portfolio-url/</loc>
-    <lastmod>2020-08-08T11:00:59-04:00</lastmod>
+    <lastmod>2020-08-19T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</loc>
+    <lastmod>2020-08-19T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</loc>
+    <lastmod>2020-08-10T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,20 +47,6 @@
   <url>
     <loc>https://borg93.github.io/Gabriel-Portfolio-url/post/project2/</loc>
     <lastmod>2020-05-17T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
