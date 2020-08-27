@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel&#39;s Portfolio on Gabriel Borg</title>
-    <link>https://borg93.github.io/Gabriel-Portfolio-url/</link>
+    <link>https://borg93.github.io/Gabriel-Borg-url/</link>
     <description>Recent content in Gabriel&#39;s Portfolio on Gabriel Borg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Aug 2020 11:15:58 -0400</lastBuildDate>
     
-	<atom:link href="https://borg93.github.io/Gabriel-Portfolio-url/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://borg93.github.io/Gabriel-Borg-url/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Image Segmentation and Web-GIS</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</link>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project5/</link>
       <pubDate>Wed, 19 Aug 2020 11:15:58 -0400</pubDate>
       
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project5/</guid>
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project5/</guid>
       <description>Place holder coming soon! Program used  Openlayers Geoserver Pgadmin / Postgres QGIS      </description>
     </item>
     
     <item>
       <title>Battle of Neighborhoods</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</link>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project4/</link>
       <pubDate>Mon, 10 Aug 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project4/</guid>
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project4/</guid>
       <description>Different cities in the world have perfect venues that you cannot live without. In this project we will help people who are living in Odenplan, a central city part of Stockholm, to find a new home with similar features as Odenplan in Stockholm city. Despite of having dissimilarities of taste, we will look for city parts in Stockholm that looks like Odenplan. By clustering different neighborhood according to venue category may give insights on what defines the Norrmalm, the district of Odenplan.</description>
     </item>
     
     <item>
       <title>Twitter trend recognition</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project3/</link>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project3/</link>
       <pubDate>Sat, 08 Aug 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project3/</guid>
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project3/</guid>
       <description>Abstract: Twitter is a popular micro-blogging service, platform for public real-time communication and a perfect platform to analyze social networks. This project&amp;rsquo;s aim was to use foresight trend with twitter with two keywords in mind: ai+architecture.
 Twitter has huge amount data from tweets in endless time-series. Foresight is a powerful structured foretelling that could give the possible development investment or intel to relevant stakeholders.
 The projects study for insights conducted WordClouds, social network analysis and sentiment analysis.</description>
@@ -42,29 +42,29 @@ The projects study for insights conducted WordClouds, social network analysis an
     
     <item>
       <title>Evolving cars</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project1/</link>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project1/</link>
       <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project1/</guid>
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project1/</guid>
       <description>Tensorflow with genetic algorithm to train an agent to drive Link to GitHub Repository   Game description: The game used a car to navigate between incoming obstacles/cars, were scores is given based how far the car travels without collisions. However, the game was intially realized with keyValueListners to steer the car from left to right side, it devoloped into to using artificell synapsis, i.e. neural networks, to let the car &amp;ldquo;learn&amp;rdquo; how to navigate by itself.</description>
     </item>
     
     <item>
       <title>Hållbarhetskollen</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project2/</link>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project2/</link>
       <pubDate>Sun, 17 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project2/</guid>
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project2/</guid>
       <description>A virtual assistant to empower Sweco&amp;rsquo;s originations sustainable development business. Link to GitHub Repository
 Sustainable development is highly prioritized when it comes to business in Sweden, were customers are getting more anxious and aware of the subject. This creates a snowball were companies needs to take a bigger responsibility to meet customer satisfaction from both the Swedish states and customers customer, the house buyers. However, this means that there are new innovations to come -&amp;gt; Chatbot to the aid!</description>
     </item>
     
     <item>
       <title>Project VI: Regression</title>
-      <link>https://borg93.github.io/Gabriel-Portfolio-url/post/project6/</link>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project6/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
-      <guid>https://borg93.github.io/Gabriel-Portfolio-url/post/project6/</guid>
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project6/</guid>
       <description>placeholder </description>
     </item>
     
