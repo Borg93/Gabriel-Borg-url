@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Autodesk Forge vs BIM in Power BI</title>
+      <link>https://borg93.github.io/Gabriel-Borg-url/post/project6/</link>
+      <pubDate>Sat, 03 Oct 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project6/</guid>
+      <description>Dashboarding and decision making in Autodesk forge This project aims to access design and engineering data in the cloud with the Forge platform. Mainly concerning, Forge workflow and API, visualization, model rendering and dashboards.
+Tools used  Chart.js and D3.js node.js and Typescript Autodesk Forge API and Power BI  </description>
+    </item>
+    
+    <item>
       <title>Image Segmentation and Web-GIS</title>
       <link>https://borg93.github.io/Gabriel-Borg-url/post/project5/</link>
       <pubDate>Wed, 19 Aug 2020 11:15:58 -0400</pubDate>
@@ -57,15 +67,6 @@ The projects study for insights conducted WordClouds, social network analysis an
       <guid>https://borg93.github.io/Gabriel-Borg-url/post/project2/</guid>
       <description>A virtual assistant to empower Sweco&amp;rsquo;s originations sustainable development business. Link to GitHub Repository
 Sustainable development is highly prioritized when it comes to business in Sweden, were customers are getting more anxious and aware of the subject. This creates a snowball were companies needs to take a bigger responsibility to meet customer satisfaction from both the Swedish states and customers customer, the house buyers. However, this means that there are new innovations to come -&amp;gt; Chatbot to the aid!</description>
-    </item>
-    
-    <item>
-      <title>Project VI: Regression</title>
-      <link>https://borg93.github.io/Gabriel-Borg-url/post/project6/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://borg93.github.io/Gabriel-Borg-url/post/project6/</guid>
-      <description>placeholder </description>
     </item>
     
   </channel>
